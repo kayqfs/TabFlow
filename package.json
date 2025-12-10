@@ -1,0 +1,31 @@
+{
+  "name": "tabflow",
+  "version": "2.0.1",
+  "description": "Chrome extension that visualizes browsing context via favicon manipulation",
+  "main": "src/lib/historyLogic.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "chrome-extension",
+    "tabs",
+    "favicon",
+    "productivity",
+    "manifest-v3"
+  ],
+  "author": "Kayque Reis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/TabFlow.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
