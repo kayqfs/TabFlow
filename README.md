@@ -352,18 +352,6 @@ This project was built with:
 
 ---
 
-## Screenshots
-
-### Modern Options Page
-![Options Page](./docs/screenshots/options-page.png)
-*Gradient purple design with live badge preview and interactive slider*
-
-### Badges in Action
-![Badges Example](./docs/screenshots/badges-example.png)
-*Numeric badges (1, 2, 3) with distinct colors showing tab history*
-
----
-
 ## Tech Stack
 
 - **Chrome Extension Manifest V3**
@@ -392,14 +380,6 @@ A: Not yet, but it's on the roadmap! Currently uses red (#FF4444), orange (#FF88
 
 **Q: How is this different from tab session managers?**  
 A: TabFlow is lightweight and visual-only. It doesn't restore sessions or manage tab groups—just shows which tabs you recently used via favicon badges.
-
----
-
-## Acknowledgments
-
-- Inspired by the need for minimal, non-intrusive tab navigation helpers
-- Built with ❤️ for developers who hate cluttered browser UIs
-- Thanks to the Chrome Extensions community for API documentation and best practices
 
 ---
 
