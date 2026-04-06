@@ -325,14 +325,6 @@ See [LICENSE](./LICENSE) file for full details. You are free to use, modify, and
 
 ---
 
-## 📞 Support & Feedback
-
-- **Issues:** [GitHub Issues](https://github.com/yourusername/TabFlow/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/TabFlow/discussions)
-- **Email:** kayque@example.com (if applicable)
-
----
-
 ## 🙏 Acknowledgments
 
 This project was built with:
@@ -340,12 +332,6 @@ This project was built with:
 - **[Jest](https://jestjs.io/)** — Testing framework
 - **[Claude AI / GitHub Copilot](https://github.com/features/copilot)** — AI assistance for development
 - **Node.js & vanilla JavaScript** — No heavy frameworks needed
-
----
-
-**Made with ❤️ and AI • Designed for productivity • Built for reliability**
-
-**No data collection, no external API calls, no telemetry.** The extension is fully offline and self-contained.
 
 ---
 
